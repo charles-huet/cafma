@@ -1,0 +1,17 @@
+{
+  "name": "cafma",
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "extract": "node extract"
+  },
+  "private": true,
+  "devDependencies": {
+    "cheerio": "^1.0.0-rc.12",
+    "encoding": "^0.1.13",
+    "iconv-lite": "^0.6.3",
+    "node-fetch": "^2.6.7",
+    "p-limit": "^4.0.0",
+    "typescript": "~4.7.2"
+  }
+}
